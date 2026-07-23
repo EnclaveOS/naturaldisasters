@@ -1,0 +1,21 @@
+{
+  "model": "CardGridSection",
+  "presets": [
+    {
+      "label": "Card grid",
+      "data": {
+        "type": "CardGridSection",
+        "heading": "Add cards",
+        "cards": [
+          {
+            "type": "Card",
+            "title": "Card title",
+            "body": "Add a short description for this card.",
+            "linkLabel": "",
+            "linkUrl": ""
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "model": "ButtonSection",
+  "presets": [
+    {
+      "label": "Solid button",
+      "data": {
+        "type": "ButtonSection",
+        "label": "Button label",
+        "url": "https://www.netlify.com/",
+        "style": "solid"
+      }
+    },
+    {
+      "label": "Outline button",
+      "data": {
+        "type": "ButtonSection",
+        "label": "Button label",
+        "url": "https://www.netlify.com/",
+        "style": "outline"
+      }
+    }
+  ]
+}

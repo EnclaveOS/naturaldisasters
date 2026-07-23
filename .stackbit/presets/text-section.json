@@ -1,0 +1,14 @@
+{
+  "model": "TextSection",
+  "presets": [
+    {
+      "label": "Heading and text",
+      "data": {
+        "type": "TextSection",
+        "eyebrow": "Section",
+        "heading": "Add a section heading",
+        "body": "Add supporting paragraph text here."
+      }
+    }
+  ]
+}
