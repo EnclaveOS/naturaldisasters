@@ -1,7 +1,39 @@
 {
   "type": "Page",
   "title": "Blank Website",
-  "intro": "Start editing this page in Netlify Visual Editor, or replace this starter content with your own.",
-  "buttonLabel": "Learn More",
-  "buttonUrl": "https://www.netlify.com/"
+  "sections": [
+    {
+      "type": "HeroSection",
+      "eyebrow": "Ready for Netlify Visual Editor",
+      "heading": "Blank Website",
+      "body": "Start editing this page in Netlify Visual Editor, or replace this starter content with your own.",
+      "buttonLabel": "Learn More",
+      "buttonUrl": "https://www.netlify.com/"
+    },
+    {
+      "type": "TextSection",
+      "eyebrow": "Editable block",
+      "heading": "Add text sections",
+      "body": "Use the Visual Editor to add, remove, reorder, and edit content blocks."
+    },
+    {
+      "type": "ButtonSection",
+      "label": "Add a button",
+      "url": "https://www.netlify.com/",
+      "style": "outline"
+    },
+    {
+      "type": "CardGridSection",
+      "heading": "Add cards",
+      "cards": [
+        {
+          "type": "Card",
+          "title": "First card",
+          "body": "Edit this card or add more cards in the editor.",
+          "linkLabel": "",
+          "linkUrl": ""
+        }
+      ]
+    }
+  ]
 }
