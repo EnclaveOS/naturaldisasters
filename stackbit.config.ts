@@ -9,9 +9,9 @@ export default defineStackbitConfig({
   sidebarButtons: [
     {
       label: "Edit home page",
-      type: "document",
-      icon: "page",
-      documentId: "content/pages/index.json"
+      type: "model",
+      icon: "tools",
+      modelName: "Page"
     },
     {
       label: "View home page",
