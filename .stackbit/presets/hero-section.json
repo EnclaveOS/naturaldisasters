@@ -1,0 +1,16 @@
+{
+  "model": "HeroSection",
+  "presets": [
+    {
+      "label": "Hero with button",
+      "data": {
+        "type": "HeroSection",
+        "eyebrow": "Featured",
+        "heading": "Add a clear headline",
+        "body": "Use this area to introduce the page and guide visitors toward the next step.",
+        "buttonLabel": "Learn more",
+        "buttonUrl": "https://www.netlify.com/"
+      }
+    }
+  ]
+}

@@ -58,3 +58,7 @@ The Visual Editor configuration lives at:
 ```text
 stackbit.config.ts
 ```
+
+## Adding page sections
+
+Select the page in the Visual Editor, open its **Sections** field, and use the add button to insert a Hero, Heading & Text, Button, or Card Grid preset. The sidebar panel labeled **Customize your editing experience** is for custom shortcuts and links; it is not the component picker.
