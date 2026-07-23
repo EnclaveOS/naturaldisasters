@@ -1,0 +1,10 @@
+node_modules
+.next
+.netlify
+out
+dist
+.env
+.DS_Store
+npm-debug.log*
+next-dev.log
+next-dev.err.log
